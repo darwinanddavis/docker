@@ -94,9 +94,9 @@ Commands:
 
 ```
 
-`docker ps` 
-`docker images`  
-`docker info`    
+`docker ps`   
+`docker images`    
+`docker info`      
 
 
 ******
@@ -112,6 +112,8 @@ Commands for running Docker for app containerisation.
 
 
 Useful links:  
-- [Introduction to Docker](https://docs.docker.com/get-started/#recap-and-cheat-sheet)  
+- [Landing page](https://store.docker.com/editions/community/docker-ce-desktop-mac)  
+- [Introduction to Docker](https://docs.docker.com/get-started/#recap-and-cheat-sheet)    
+
 
 
