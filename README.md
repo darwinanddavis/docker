@@ -5,7 +5,15 @@
 
 ##### *Corresponding author: matthew.malishev@gmail.com  
 
-:link: [Link to Github](https://github.com/darwinanddavis)    
+:link: [Docker Github](https://github.com/InsightDataScience/docker-workshop)    
+
+## Overview      
+
+Commands for running Docker for app containerisation.  
+Alternative to VM’s on local computer by providing a cloud service (container)  
+-	Uses host operating system on cloud  
+-	Kubernetes: orchestration tool  
+
 
 Commands:  
 `docker --version`  
@@ -103,12 +111,6 @@ Commands:
 
 File extensions:   
 .txt
-
-******  
-
-## Overview      
-
-Commands for running Docker for app containerisation.  
 
 
 Useful links:  
